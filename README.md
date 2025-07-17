@@ -30,15 +30,21 @@ Esta aplicación móvil permite a los usuarios gestionar sus tareas personales y
 Registro 
 
 > _Registro ._
+> 
 > <img width="1904" height="681" alt="image" src="https://github.com/user-attachments/assets/df1737c0-a407-4c8b-9a76-9a7a1e1cf028" />
+
 
 <img width="1896" height="669" alt="image" src="https://github.com/user-attachments/assets/887ba946-f9d7-4732-b818-9694746568da" />
 
+
 <img width="1901" height="590" alt="image" src="https://github.com/user-attachments/assets/46635c5a-8781-4f87-be1e-2c7d8eb074e9" />
+
 
 <img width="776" height="130" alt="image" src="https://github.com/user-attachments/assets/a4fd3dcb-fa86-4ee3-8d07-0938adb1f9e5" />
 
+
 <img width="393" height="208" alt="image" src="https://github.com/user-attachments/assets/7d4ef83a-644b-48be-85cb-12f3d99d8b34" />
+
 
 <img width="946" height="165" alt="image" src="https://github.com/user-attachments/assets/3dc58a28-aed9-43e8-8c21-805f7a1fc05b" />
 
@@ -58,7 +64,14 @@ Registro
 > _Formulario Tareas._
 > <img width="694" height="624" alt="image" src="https://github.com/user-attachments/assets/8159aaaa-51ca-4e02-b86c-2959bac81be0" />
 
-> 
+> _Transacciones en Firebase._
+Id del usuario 
+><img width="927" height="91" alt="image" src="https://github.com/user-attachments/assets/c797b667-8f09-4902-b5f9-fb1eaf0de0a0" />
+
+Creacion de los campos necesarios en la BDD en Firebase
+
+> _BDD Firebase._
+><img width="1523" height="387" alt="image" src="https://github.com/user-attachments/assets/b7bb02e1-89a7-493e-8efb-a7b6fe94df6f" />
 
 ## ⚙️ Instalación y ejecución
 
