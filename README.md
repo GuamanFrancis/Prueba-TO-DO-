@@ -62,6 +62,7 @@ Registro
 
 
 > _Formulario Tareas._
+> 
 > <img width="694" height="624" alt="image" src="https://github.com/user-attachments/assets/8159aaaa-51ca-4e02-b86c-2959bac81be0" />
 
 > _Transacciones en Firebase._
