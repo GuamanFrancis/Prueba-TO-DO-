@@ -64,7 +64,7 @@ Registro
 
 1. **Clona el repositorio:**
    ```sh
-   git clone https://github.com/tuusuario/tu-repo-tareas.git
+   [git clone https://github.com/tuusuario/tu-repo-tareas.git](https://github.com/GuamanFrancis/Prueba-TO-DO-.git)
    cd tu-repo-tareas
    ```
 
