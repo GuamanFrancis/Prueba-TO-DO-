@@ -110,7 +110,9 @@ Creacion de los campos necesarios en la BDD en Firebase
 
 ## 👨‍💻 Autor
 
-- [Francis Guaman](https://github.com/tuusuario)
+- [Francis Guaman
+](https://github.com/GuamanFrancis
+)
 
 ---
 
